@@ -1,0 +1,25 @@
+.textH1{ 
+  color: #574141 ;
+   font-weight: bolder ;
+}
+.textP{
+ color: #181313 ;
+ font-size: 22px;
+ font-weight: 600 ;
+}
+
+.textcontainer {
+  display: flex ;
+  align-items: center ;
+  /* justify-content: center; */
+  width: 68% ;
+  margin: 0 auto ;
+ 
+}
+
+.stack {
+   display: flex ;
+  align-items: center ;
+  height: 100vh ;
+ 
+}
