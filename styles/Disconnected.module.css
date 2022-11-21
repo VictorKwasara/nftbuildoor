@@ -7,3 +7,27 @@
   background-image: url("../public/homebg3.svg") ;
   background-size: cover ;
 }
+
+.button {
+  color: #BFA5A8;
+  background-color: #574141
+}
+
+@media screen and (max-width: 900px) {
+
+  .container {
+  width: 100%;
+  height: 100vh ;
+  display: flex ;
+  align-items: center ;
+  justify-content: center ;
+  background: url("../public/homebg3.svg") ;
+  background-size: cover ;
+}
+
+.button {
+  color: #BFA5A8;
+   background-color: #574141
+}
+
+}

@@ -21,7 +21,7 @@ const Connected = () => {
 				</Stack>
 			</Box>
 			{/* <motion.div></motion.div> */}
-			<Stack direction='row' spacing={8}>
+			<Stack direction={{xs:'column',md:'row' }} spacing={8}>
 				<motion.div whileHover={{ scale: 1.05 }}>
 					<Image src='/avatar1.png' alt='' height='200' width='200' />
 				</motion.div>
