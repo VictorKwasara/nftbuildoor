@@ -1,6 +1,6 @@
 import React from 'react'
 import styles from '../styles/Home.module.css';
-import {AppBar} from "@mui/material"
+// import {AppBar} from "@mui/material"
 import dynamic from "next/dynamic"
 
 const WalletMultiButton = dynamic(
