@@ -9,7 +9,7 @@
 }
 
 .header {
-  margin: auto auto auto 50px ;
+  margin: 10px auto 10px 50px ;
   color: #BFA5A8 ;
   font-weight: bolder ;
 }
@@ -29,3 +29,22 @@
 {
 background-color: #F84071 !important;
 }
+
+@media screen and (max-width: 900px){
+
+  .appbar {
+  display: flex ;
+  flex-direction: column ;
+  justify-content: center ;
+}
+
+ .header {
+  margin: 5px auto 5px auto ;
+  color: #BFA5A8 ;
+  font-weight: bolder ;
+}
+.wallet-adapter-button-trigger{
+  background-color: #FF1B54 !important ;
+  margin: 5px auto 5px auto !important ;
+}
+} 
