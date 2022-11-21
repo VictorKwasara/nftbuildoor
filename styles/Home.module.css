@@ -6,6 +6,7 @@
 .appbar {
   display: flex ;
   flex-direction: row ;
+  height: 70px ;
 }
 
 .header {
@@ -36,6 +37,7 @@ background-color: #F84071 !important;
   display: flex ;
   flex-direction: column ;
   justify-content: center ;
+   height: 120px ;
 }
 
  .header {
