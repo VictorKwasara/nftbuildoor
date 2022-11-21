@@ -11,10 +11,10 @@ async () => (
 
 const Navbar = () => {
   return (
-		<AppBar position='static' className={styles.appbar}>
+		<div className={styles.appbar}>
 		  <h2 className={styles.header}>Mint your own NFT</h2>
 			<WalletMultiButton className={styles['wallet-adapter-button-trigger']} />
-		</AppBar>
+		</div>
 		// <h1>STuff</h1>
 	);
   }
