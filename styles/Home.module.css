@@ -6,11 +6,11 @@
 .appbar {
   display: flex ;
   flex-direction: row ;
-  height: 70px ;
+  
 }
 
 .header {
-  margin: 10px auto 10px 50px ;
+  margin: 15px auto 15px 50px ;
   color: #BFA5A8 ;
   font-weight: bolder ;
 }
@@ -22,7 +22,7 @@
 
 .wallet-adapter-button-trigger{
   background-color: #FF1B54 !important ;
-  margin: 10px 20px 10px auto !important ;
+  margin: auto 20px auto auto !important ;
 }
 
 .wallet-adapter-button-trigger:hover,
@@ -37,7 +37,7 @@ background-color: #F84071 !important;
   display: flex ;
   flex-direction: column ;
   justify-content: center ;
-   height: 120px ;
+  
 }
 
  .header {
