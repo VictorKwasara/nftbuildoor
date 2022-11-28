@@ -1,0 +1,15 @@
+{
+	"name": "Zimbabwe Bird Collection",
+	"symbol": "ZimBird",
+	"description": "Collection of Zim Birds, with rare collectables",
+	"image": "collection.png",
+	"attributes": [],
+	"properties": {
+		"files": [
+			{
+				"uri": "collection.png",
+				"type": "image/png"
+			}
+		]
+	}
+}

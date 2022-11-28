@@ -1,0 +1,145 @@
+{
+  "program": {
+    "candyMachine": "41WNRSMMGJpkR8hQ9C4CG8HRSBvyqyVBZDckRGT4T38d",
+    "candyMachineCreator": "4sy8HcEZJnPLGCmC7GESAYXX7FxoRmjwLB5KgJizqoPK",
+    "collectionMint": "keHazYUFtdc3FeJXMYAq4wcSnT4VUQ1mjpghXVDMHiz"
+  },
+  "items": {
+    "-1": {
+      "name": "Zimbabwe Bird Collection",
+      "image_hash": "4271bfc5a3d7f087902c9ac9c1431ea5c957a117afb847fcaed86dc3dfb5331f",
+      "image_link": "https://arweave.net/ygn91gnu-ydlt7_8Ew1jnjQubNKgETvWQKDLFrl5Gzs?ext=png",
+      "metadata_hash": "d62271c84b91bd33ffdfb56c48b4f2dd0c8fb48432e23e25f97d2491ae9421fd",
+      "metadata_link": "https://arweave.net/xsYzX3EHaRB985_Nr_qZRGnHjHhxwBt04VKL1FP3Gwc",
+      "onChain": true
+    },
+    "0": {
+      "name": "Zim Bird 0",
+      "image_hash": "1899906a55a88526550cb1e05ccf5f06857be367cc0b4692130d009ccb2d8c09",
+      "image_link": "https://arweave.net/mNguRGHeAtNcUbqcw4d0xRPAx4E-Qd6HAntxYyeAmrU?ext=png",
+      "metadata_hash": "baafa037ed863a9b0f6051f218e9d831a84dc36e112c4ae20ce2997f9aea1204",
+      "metadata_link": "https://arweave.net/ARRBNVj8CD5pIeC1bmi0w2FZqZxh5NKob9gMgzyXf9w",
+      "onChain": true
+    },
+    "1": {
+      "name": "Zim Bird 1",
+      "image_hash": "a491e0ccc9c3e4701b52294dd4a590710c0520713ac200c313108f4417bc9f64",
+      "image_link": "https://arweave.net/ORVis2VwfsSoq2TyW-JchsnqqqIs_7Gr7iQw7QQJkrw?ext=png",
+      "metadata_hash": "74a7995cde9b0bbb15fd4c563efc04ad999dfa80ce8b767c216a1657e1dace7e",
+      "metadata_link": "https://arweave.net/ynNZH_8Fuy38GUiBDfs7VFvD6x3Xd2AtV0tZn2UboOk",
+      "onChain": true
+    },
+    "2": {
+      "name": "Zim Bird 2",
+      "image_hash": "75257a712a86f96ac1482e8aeecd87b31380baea645e30bd77bc758ba7e0d2cf",
+      "image_link": "https://arweave.net/V0jPInAYah6cELhDNAB_Jkf8T9h6tFs43pKqHdKv5lA?ext=png",
+      "metadata_hash": "56bc9c86c2254dd73749b079a489c1824d0df2b56eb62908d834838f1b20ce68",
+      "metadata_link": "https://arweave.net/_6zcysIoC6ZPnpiV9dvAPSmRQp7b4PvkwxVpAq4i1N8",
+      "onChain": true
+    },
+    "3": {
+      "name": "Zim Bird 3",
+      "image_hash": "d379e08ab5f4ee454e1af63fc5f30fa0864aecdd318dc3a8cbefc1074e7bdaba",
+      "image_link": "https://arweave.net/jvx-SbALDX1fqncsdFAnsdDlNRwjuX73qkbs5jSgkuk?ext=png",
+      "metadata_hash": "67bd5ae6838da5c1c60b9fab53a4163589288afce8e1d5f0eb1556e3d2ab9bf7",
+      "metadata_link": "https://arweave.net/vuTkmtbqvZucz_MqY8f61RHw48z31w0TxNBmGixdelc",
+      "onChain": true
+    },
+    "4": {
+      "name": "Zim Bird 4",
+      "image_hash": "986930077e03d85f117c937ef72fcb4bb616550d3d1475c310c7e756333fd7dc",
+      "image_link": "https://arweave.net/Lw8ivjLnfgqFio2J_V61mPt1iuyRzFRKskkW9SGau_w?ext=png",
+      "metadata_hash": "03b99152ac98f3234cf0dac02422f4d2fd749ee131a6ae10b63f428e1a7acb44",
+      "metadata_link": "https://arweave.net/SwCFONNeSyrHkg_SoAAe9jWlXeIpjCJiNp7z9jlLcXI",
+      "onChain": true
+    },
+    "5": {
+      "name": "Zim Bird 5",
+      "image_hash": "068502f2b8028078263bbf494c694cc7b22d6fd165fff9b717d133c8e3244e94",
+      "image_link": "https://arweave.net/Nq2ngBpQYTBQ18Gm-WiGscmuqno7vX0YDwXw1Q9rWkw?ext=png",
+      "metadata_hash": "d8fd4b355676ee17b7dae3bd5334d9303060c0fccfb77e5c3a5503ca81b7fb9b",
+      "metadata_link": "https://arweave.net/WnkfeZb3_9bRojnck33IWQXIj-YwSf8u-8RIaikhups",
+      "onChain": true
+    },
+    "6": {
+      "name": "Zim Bird 6",
+      "image_hash": "1655c9beea33b39f8a39a476fa357e0e390ae3c84992a997060dd9e1689f3b41",
+      "image_link": "https://arweave.net/tUWADKe8F4oCCDYulfXXEH-4PofxTxxxzZ9gq4o9IXI?ext=png",
+      "metadata_hash": "bededaf4b03453ae416c2094767c99eecfd802c83a47371378d219e4e8eb2569",
+      "metadata_link": "https://arweave.net/jiXryB9kw_l6ehZhDCS5VwsKDoS1vs8QMEiz50KY1ss",
+      "onChain": true
+    },
+    "7": {
+      "name": "Zim Bird 7",
+      "image_hash": "e7eaa0dd2ca7103dbfac8ececef36a6f3ca15e87a93918b5a05a20dc556caa7f",
+      "image_link": "https://arweave.net/EZJ3MKGJMx0x36_LqVJRFml42UWQxvM-yKpOXqOYOlY?ext=png",
+      "metadata_hash": "f2046abea02a0730f83168e084140d9f85af4da3bdde897043026669c2db6ae2",
+      "metadata_link": "https://arweave.net/YQBhbw4RXCft8Ghb_3E63QLSOIViHQg8Vtgt_WKxsRg",
+      "onChain": true
+    },
+    "8": {
+      "name": "Zim Bird 8",
+      "image_hash": "904420025177f1dfeaaa3978cb2fa0e033b12d7b98e609f1d86b470c18113da4",
+      "image_link": "https://arweave.net/RoV3KJ_M0Yh5VZ63z8uDUbRKG7TUST6tINymU9pkpzc?ext=png",
+      "metadata_hash": "83d5e13a2495a9774c463ff4273f45a1982bb554176efb388d738964fb002eed",
+      "metadata_link": "https://arweave.net/SaoWD8r30X_1Ysuvhk4ioDK0844_YVYu4-q6bSMGBtM",
+      "onChain": true
+    },
+    "9": {
+      "name": "Zim Bird 9",
+      "image_hash": "55a91c517b3dd8c22bcab134b5a13dea0a545bc7e15f69c6b204959ca87ac727",
+      "image_link": "https://arweave.net/-w2y6V5uKPFmVZpjN6wm7QeaLnEEgHMfI0VG0p2bVhQ?ext=png",
+      "metadata_hash": "ee21ecdabf72dacfc248f118bb88183ecc5f41cd896bbba43e9f3fcf40ea1196",
+      "metadata_link": "https://arweave.net/UDze5ndE5_FGcYWKJ-Rwru-fTGfNSirFnLxrZ-f_PwU",
+      "onChain": true
+    },
+    "10": {
+      "name": "Zim Bird 10",
+      "image_hash": "3d3aa095d9b5459a2c128584365fcdf845f0d4d82684e3958a1f7eb93e984e36",
+      "image_link": "https://arweave.net/7pgudbnnfKwLAzlHs0ndd1pvbgF5KYOlw5z1HTeAHKQ?ext=png",
+      "metadata_hash": "7aa886f6d79791bb9fa2ebb8c0c53d3f2144eb65706b1ad2efe62354353160ca",
+      "metadata_link": "https://arweave.net/boI7WSxnwynAUD4Ko6wwpkAuhff-7dgOuvDleZcG_eU",
+      "onChain": true
+    },
+    "11": {
+      "name": "Zim Bird 11",
+      "image_hash": "1f2e330f6b37b22e935e868c3c21d972a678de2e5fdff8dff228c57fc97ec45c",
+      "image_link": "https://arweave.net/Fw_zdULREMCrScSvUMdX3NqzmSJrGjM0g4XLIdFjUTA?ext=png",
+      "metadata_hash": "426f94364e1f344ee702a3e33739afc289076d1442f2bef7e6b29ce378ae5d3a",
+      "metadata_link": "https://arweave.net/kdN7vHHq6_M1AlSDj8dzm8WZ6192X8jbPVByWGfN6go",
+      "onChain": true
+    },
+    "12": {
+      "name": "Zim Bird 12",
+      "image_hash": "6232cee44dd943910f09e2781826425a54ac5b8dad4720bf27d1b837c49890e9",
+      "image_link": "https://arweave.net/PDTgaeinlOWapKdPUy6CQKvBtzwzaiLxNB_RLkQD6OQ?ext=png",
+      "metadata_hash": "6504da4fe3f2f5dacd41f990e0bde9856c3ed102f2ab31d07e949a64a2bdc173",
+      "metadata_link": "https://arweave.net/EGIhtsYlPXTcLl-3dyt59xjO71El0MPz1RAE5gkcjkM",
+      "onChain": true
+    },
+    "13": {
+      "name": "Zim Bird 13",
+      "image_hash": "a943abb9d85ee2a01c7ad8f9491bd424d96ec0d85c87f5216ac2fd88c446ab6a",
+      "image_link": "https://arweave.net/J5BFMfkQiwwdVyo9rhJB1rjFdlkeqyWO3K_3HbC_2U8?ext=png",
+      "metadata_hash": "de616ce8d489bf534e0c3a36416d5bf9a3f921188d40da7ab1c1550eb40e7d25",
+      "metadata_link": "https://arweave.net/hkYYaELKg8x2Ttx52Zd6CqndImfKbsgSqY4vm43kx2I",
+      "onChain": true
+    },
+    "14": {
+      "name": "Zim Bird 14",
+      "image_hash": "473b32301629b3eccebfcdec42cab4f0897c95b260cccbea5e39f25c2355fd79",
+      "image_link": "https://arweave.net/WU3jtk-v181PcFtrcCZpxdn9JDF_esVq6DXDEiIsrLo?ext=png",
+      "metadata_hash": "3c722923fcb1b9c753590b142e553385ca7158b302c756cb0bbd5eeb40c41644",
+      "metadata_link": "https://arweave.net/YOlhzLIBVLD2o8FBvajruMsiLOR8KRXxUlf1Eqd2FqM",
+      "onChain": true
+    },
+    "15": {
+      "name": "Zim Bird 15",
+      "image_hash": "a26470a3e88601d781109becc7771f59c67f674b0a053cd1ff390bb2dd23cb41",
+      "image_link": "https://arweave.net/W6vDTPiwdLiGtiahjlMkL_s_MjA2rP7aeXoNfI0MIRc?ext=png",
+      "metadata_hash": "e9f03412b559d6762f746b6580da48b34db71ee7848736658923145dccc59924",
+      "metadata_link": "https://arweave.net/clB4py3vBbNoQP5j2iEYzeuDWViBOkk87u9nqjb04kg",
+      "onChain": true
+    }
+  }
+}

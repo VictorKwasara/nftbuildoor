@@ -11,12 +11,12 @@ export default function Home() {
 		<div className={styles.home}>
 			<Head>
 				<title>Buldoor</title>
+				<link rel='icon' href='favicon.ico' />
 			</Head>
 
 			<main className={styles.main}>
-				{!connected ? <Disconnected/>: <Connected/>}
+				{!connected ? <Disconnected /> : <Connected />}
 			</main>
-
 		</div>
 	);
 }
