@@ -10,8 +10,6 @@ import Image from "next/image"
 import Stack from '@mui/material/Stack';
 import {
 	textH1,
-	textP,
-	textcontainer,
 	stack,
 } from '../styles/Connected.module.css';
 
@@ -19,7 +17,7 @@ interface NewMintProps{
   mint: PublicKey;
 }
 
-const newMint: NextPage<NewMintProps> = ({mint}) => {
+const NewMint: NextPage<NewMintProps> = ({mint}) => {
   const [metadata, setMetadata] = useState<any>()
   const {connection} = useConnection()
   const walletAdapter = useWallet()
@@ -70,7 +68,7 @@ const newMint: NextPage<NewMintProps> = ({mint}) => {
 	);
 }
 
-newMint.getInitialProps = async ({query}) => {
+NewMint.getInitialProps = async ({query}) => {
 	const {mint} = query ;
 
 	if (!mint) throw { error: "No mint"};
@@ -84,4 +82,4 @@ newMint.getInitialProps = async ({query}) => {
 }
 
 
-export default newMint
+export default NewMint
