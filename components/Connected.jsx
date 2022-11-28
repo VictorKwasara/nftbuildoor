@@ -120,7 +120,7 @@ const Connected = () => {
 		<Stack spacing={8} className={stack}>
 			<Box>
 				<Stack direction='column' spacing={1} className={textcontainer}>
-					<h1 className={textH1}>Welcome to Buildoor</h1>
+					<h1 className={textH1}>Welcome to Zimbo Bird Mint</h1>
 					<p className={textP}>
 						Each Zimbo Bird is randomly generated and can be staked to receive
 						<strong> $Zeee </strong> Use your <strong> $Zeee</strong> to receive

@@ -140,6 +140,78 @@
       "metadata_hash": "e9f03412b559d6762f746b6580da48b34db71ee7848736658923145dccc59924",
       "metadata_link": "https://arweave.net/clB4py3vBbNoQP5j2iEYzeuDWViBOkk87u9nqjb04kg",
       "onChain": true
+    },
+    "16": {
+      "name": "Zim Bird 16",
+      "image_hash": "aba343e642ff835907a83463b4bf552b5c6e47005a5d148331515dd5556aab4f",
+      "image_link": "https://arweave.net/E2FGhk0z0K6UMKyqlrpDKUuWz5ajMEqH-nkS6Ci9JGM?ext=png",
+      "metadata_hash": "76586c26b7289fb4ae5f52c1b66a3ced755789f3f52feea310e8a29972638c55",
+      "metadata_link": "https://arweave.net/sXbcxpCrFx_ehkIvfP8n5JlfBEDZd5v3etvqXpg74nA",
+      "onChain": false
+    },
+    "17": {
+      "name": "Zim Bird 17",
+      "image_hash": "cf04db8aa8116766ec2d4e930590aec1c3ba8b6a3f0958ece440d4b5eea83d95",
+      "image_link": "https://arweave.net/1FfnDY3YE5WpA1B2QQGoI_Fvj-kgVZJ3UlnKNjZZU14?ext=png",
+      "metadata_hash": "d24df5070ee07c6dce243defd958574da0d8362f506b10970fdf0edaa90d24b4",
+      "metadata_link": "https://arweave.net/CFox44c_31BUtJ4kCXCYSu8M01InQM5juDhGbhczFyY",
+      "onChain": false
+    },
+    "18": {
+      "name": "Zim Bird 18",
+      "image_hash": "5efc65e2599612d9c4a6bdd7e2c7fbfaada2ff5256955cbfde7b4ad6dce5be53",
+      "image_link": "https://arweave.net/UBfihdFsJ8hCLd69tbpVmjj78ESK2VxNqSwt7t_fJms?ext=png",
+      "metadata_hash": "48b7b8cbfbcd026835a4890aed0c9556028dae903df5b963d265fd5fbb590126",
+      "metadata_link": "https://arweave.net/nIC0TpB2Gb4VBdrWPZtIsC8keol64YMpon-tInNEVMc",
+      "onChain": false
+    },
+    "19": {
+      "name": "Zim Bird 19",
+      "image_hash": "a372ccd429ba554ba33809f31bb8731b663039a2c8443c3ebc96bd48e092742e",
+      "image_link": "https://arweave.net/T27A4RHVBXOLz6UrsDDr_8-h7CT1UX5Ac2MeUArzOjc?ext=png",
+      "metadata_hash": "d7939002b88970a2f53345ad1b03b03801f4af60b51871b4ba1474fe19f18991",
+      "metadata_link": "https://arweave.net/oJRzsN2esI1ObDDT3UxUApyC3EjmsVfSRuFQZr3KDF8",
+      "onChain": false
+    },
+    "20": {
+      "name": "Zim Bird 20",
+      "image_hash": "cd71de9ea84075a2545efd063221193c318bc94c9eada5f4f65f20ee538ec9d4",
+      "image_link": "https://arweave.net/CkF30fKQgQDqUDwpCBzWcoEFg-Nyg8IJmjpfCL6Mazc?ext=png",
+      "metadata_hash": "332aeddbb71a3b7aa944ae092e76f3c42875e8d8c8883976c5dacf146a93e9c5",
+      "metadata_link": "https://arweave.net/xUr78n4vHrtoCQvt2QRDyZzRivEMgFafiCdawYBNOuQ",
+      "onChain": false
+    },
+    "21": {
+      "name": "Zim Bird 21",
+      "image_hash": "5f9a5cda9d4b1a58c3ee4133c1889e831866f10639936c3102a944f2a2eabd3b",
+      "image_link": "https://arweave.net/nlQ3kf-vGjYB4-ND6tHyeL1qcHR-hfz628E3_6jOyaQ?ext=png",
+      "metadata_hash": "a58280fdce2e76cacc118a30df4af2488d87e2f1234f57070578e1610cb8c1a4",
+      "metadata_link": "https://arweave.net/mc3eildx28U75gq8NpzXJ5hvxEsVTJZ40aq7KAKY5xU",
+      "onChain": false
+    },
+    "22": {
+      "name": "Zim Bird 22",
+      "image_hash": "5b670ea6bf075f4800e48d9b523a00dddd4c52ae7b415a0f24a432aea5d5764f",
+      "image_link": "https://arweave.net/BYw6pjcQMtqad7bntAtVZQG378EsGBImGhAwgpVXzZo?ext=png",
+      "metadata_hash": "5f1dae164b13f8a5c8b149ef22e3345c001a2c782cb6f12f42038bde9fcc22e7",
+      "metadata_link": "https://arweave.net/9Rxb1b6yTpGEqvvEZbeHbeCWCQeqzz8sx7EqC0m05k0",
+      "onChain": false
+    },
+    "23": {
+      "name": "Zim Bird 23",
+      "image_hash": "57126a1bdbf4d44a229f2bc02b420ea2382c92f6086a4d744095e8492aede22d",
+      "image_link": "https://arweave.net/qcqZUh5hoOs5gEtz7Sh14CkT-9tf_GZcJiZ_LE3Cgt8?ext=png",
+      "metadata_hash": "26bb36a687a734fc666b2ea481458f4271568bffb9cce352faa5816084ab0cb3",
+      "metadata_link": "https://arweave.net/oeRZbiR6YCj8-Yad36On0gWStJpZnYKf03viMCBKntc",
+      "onChain": false
+    },
+    "24": {
+      "name": "Zim Bird 24",
+      "image_hash": "a55f245ee63511bec66b494c6c0a3f69f236df36f263e418668d14877a83911a",
+      "image_link": "https://arweave.net/vg46Rb_Dn3e-O3G-mmX7TCKZv4EjrUCilRJuweWUg9Q?ext=png",
+      "metadata_hash": "2b1b243a8896c089be07416ab3e4fb5a99b96fcf03dd8f6eff17dc3a3f1e3a96",
+      "metadata_link": "https://arweave.net/7afpS1VAUx5LKblelcslMAiOUwjGgCdKcEkgIDxWZVk",
+      "onChain": false
     }
   }
 }

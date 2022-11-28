@@ -113,7 +113,7 @@ async function createSeeToken(
 }
 
 const createjson = async () => {
-	for (let i = 0; i < 16; i++) {
+	for (let i = 0; i < 25; i++) {
     console.log(i)
 		const string = {
 			name: 'Zim Bird ' + i,
@@ -135,7 +135,7 @@ const createjson = async () => {
 				],
 			},
 		};
-		fs.writeFileSync('./tokens/bld/assets/' + i + '.json', JSON.stringify(string));
+		fs.writeFileSync('./tokens/candy-machine/assets/' + i + '.json', JSON.stringify(string));
 	}
 };
 
