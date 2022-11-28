@@ -34,7 +34,7 @@ const Disconnected = () => {
         onClick={handleClick}
         className={button}
 			>
-				Collect Your Own NFT
+				Collect Your Own ZimboBird
 			</Button>
 		</div>
 	);

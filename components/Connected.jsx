@@ -122,9 +122,9 @@ const Connected = () => {
 				<Stack direction='column' spacing={1} className={textcontainer}>
 					<h1 className={textH1}>Welcome to Buildoor</h1>
 					<p className={textP}>
-						Each buildoor is randomly generated and can be staked to receive
-						<strong> $BLD</strong> Use your <strong> $BLD</strong> to upgrade
-						your buildoor and receive perks within the community!
+						Each Zimbo Bird is randomly generated and can be staked to receive
+						<strong> $Zeee </strong> Use your <strong> $Zeee</strong> to receive
+						 perks within the community!
 					</p>
 				</Stack>
 			</Box>

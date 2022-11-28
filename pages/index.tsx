@@ -10,7 +10,7 @@ export default function Home() {
   return (
 		<div className={styles.home}>
 			<Head>
-				<title>Buldoor</title>
+				<title>ZimboBirds</title>
 				<link rel='icon' href='favicon.ico' />
 			</Head>
 
