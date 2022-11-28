@@ -8,10 +8,7 @@ import { walletAdapterIdentity , Metaplex, } from '@metaplex-foundation/js';
 import { useEffect } from 'react';
 import Image from "next/image"
 import Stack from '@mui/material/Stack';
-import {
-	textH1,
-	stack,
-} from '../styles/Connected.module.css';
+import styles from '../styles/Connected.module.css';
 
 interface NewMintProps{
   mint: PublicKey;
@@ -49,8 +46,8 @@ const NewMint: NextPage<NewMintProps> = ({mint}) => {
     []
   );
   return (
-		<Stack spacing={8} className={stack}>
-			<h1 className={textH1}>
+		<Stack spacing={8} className={styles.stack}>
+			<h1 className={styles.textH1}>
 				You can stack Your Zimbo bird and Earn Zee tokens
 			</h1>
 			<img src={metadata?.image ?? ''} alt='' height='200' width='200' />
